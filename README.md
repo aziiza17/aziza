@@ -44,6 +44,61 @@
             <p><strong>EdiesSpace</strong> — это современная онлайн-платформа для обучения востребованным профессиям. Мы создали пространство, где каждый может найти свой путь к новым знаниям и карьерным возможностям.</p>
         </div>
     </div>
+     <section class="courses-section">
+            <div class="container">
+                <h2>Наши курсы</h2>
+                <p class="courses-subtitle"> Выберите направление и начните путь к новой профессии уже сегодня
+                </p>
+                <div class="courses-grid">
+                    <div class="course-card">
+                        <div class="course-tags">
+                            <span class="tag tag-programming">Программирование</span>
+                            <span class="tag tag-beginner">Начинающий</span>
+                        </div>
+                        <h3>Веб-разработка с нуля</h3>
+                        <p class="course-description">
+                            Освойте профессию веб-разработчика от основ до создания полноценных проектов.
+                        </p>
+                        <div class="course-footer">
+                            <span class="course-price">89 990 ₽</span>
+                            <button class="btn btn-details">Подробнее <i class="fas fa-arrow-right"></i></button>
+                        </div>
+                    </div>
+
+ <div class="course-card">
+                        <div class="course-tags">
+                            <span class="tag tag-design">Дизайн</span>
+                            <span class="tag tag-medium">Средний</span>
+                        </div>
+                        <h3>UX/UI Дизайн</h3>
+                        <p class="course-description">
+                            Научитесь создавать интуитивные интерфейсы и проектировать пользовательский опыт.
+                        </p>
+                        <div class="course-footer">
+                            <span class="course-price">69 990 ₽</span>
+                            <button class="btn btn-details">Подробнее <i class="fas fa-arrow-right"></i></button>
+                        </div>
+                    </div>
+
+<div class="course-card">
+                        <div class="course-tags">
+                            <span class="tag tag-analytics">Аналитика</span>
+                            <span class="tag tag-advanced">Начинающий</span>
+                        </div>
+                        <h3>Python для анализа данных</h3>
+   <p class="course-description">
+ Изучите Python и научитесь анализировать данные, создавать визуализации и строить...
+ </p>
+                    
+<div class="course-footer">
+<span class="course-price">79 990 ₽</span>
+ <button class="btn btn-details">Подробнее <i class="fas fa-arrow-right"></i></button>
+</div>
+</div>
+ </div>
+</div>
+        </section>
+    </main>
 </body>
 </html>
 
